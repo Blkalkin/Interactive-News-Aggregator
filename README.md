@@ -99,8 +99,6 @@ The deployment strategy will include containerization with Docker to streamline 
 
 To get started with this project, clone the repository and follow the setup instructions in the [INSTALL.md](INSTALL.md) file. For a detailed explanation of the system's operation and architecture, review the [ARCHITECTURE.md](ARCHITECTURE.md) document.
 
-This platform is an open canvas for innovation, with the goal of becoming a leading tool in news and financial analysis. Join us in creating a solution that stands out for its accuracy, user engagement, and analytical depth.
-
 ---
 
 **Note:** This platform is not officially associated with OpenAI. GPT-4 is a product of OpenAI, and usage within this platform adheres to the guidelines and policies set forth by OpenAI.
