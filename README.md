@@ -37,6 +37,7 @@ At the heart of this platform is GPT-4’s natural language processing (NLP) eng
 - **Other Data APIs:**
   - *Paragon API* for accessing a range of financial information and services that might include real-time stock quotes, historical data, and other market resources.
  
+---
 
 ## Work Schedule
 
@@ -88,6 +89,7 @@ At the heart of this platform is GPT-4’s natural language processing (NLP) eng
 - Discuss the development process, challenges faced, and solutions implemented.
 - Provide a live demo of the platform, highlighting its news discussion and financial guidance functionalities, with emphasis on the modern and beautiful UI.
 
+---
 
 ### Deployment Considerations
 The deployment strategy will include containerization with Docker to streamline the deployment process across any cloud infrastructure. Adequate time will be allotted before the presentation to ensure the application is fully operational online, including time for last-minute testing and any necessary configuration tweaks.
