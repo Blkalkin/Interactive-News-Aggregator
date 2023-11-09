@@ -15,6 +15,9 @@ At the heart of this platform is GPT-4’s natural language processing (NLP) eng
 - **Data-Driven Insights:** AI-driven insights that offer users actionable intelligence on financial markets and global news implications.
 - **API-First Architecture:** Focused on building a flexible, API-driven system architecture to facilitate ease of integration with other services and scalability for future enhancements.
 
+### Wireframe Mock Up:
+<img width="1027" alt="Screen Shot 2023-11-09 at 12 39 51 AM" src="https://github.com/Blkalkin/Interactive-News-Aggregator/assets/88650606/35948009-0e69-4b81-9453-d49317007101">
+
 ### Getting Started:
 
 To get started with this project, clone the repository and follow the setup instructions in the [INSTALL.md](INSTALL.md) file. For a detailed explanation of the system's operation and architecture, review the [ARCHITECTURE.md](ARCHITECTURE.md) document.
