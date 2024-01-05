@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Fetches latest articles and initializes the topic header with menu
 function fetchLatestArticles() {
     console.log('fetchLatestArticles started'); // Log when function starts
-    return fetch('http://127.0.0.1:8000/latest_articles/')
+    return fetch('http://13.52.254.92:8000/latest_articles/')
         .then(response => {
             console.log('Response received'); // Log when response is received
             if (!response.ok) {
@@ -218,7 +218,7 @@ function analyzeArticle(articleId, questionText) {
     // Display the question in the chat
     addChatMessage(questionText, true);
 
-    fetch('http://127.0.0.1:8000/analyze_article/', {
+    fetch('http://13.52.254.92:8000/analyze_article/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
